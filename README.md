@@ -15,3 +15,7 @@ I am a Java developer
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+
+
+## summary
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=BoysBilj&show_icons=true&theme=radical" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoysBilj&show_icons=true&theme=radical" />
